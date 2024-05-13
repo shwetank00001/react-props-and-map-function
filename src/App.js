@@ -1,4 +1,3 @@
-
 import Jokes from './Components/Jokes';
 
 function App() {
